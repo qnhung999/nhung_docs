@@ -128,4 +128,4 @@ After registration, Coin2Pay will send an email containing necessary credentials
 
 - Click **Save**
 
-Process completed.
+Process completed
